@@ -12,6 +12,10 @@ app.use(express.urlencoded({ extended: true }));
 app.use(userRouteIn);
 app.use(userRouterUp);
 
+app.get('/',(req,res)=>{
+  res.json('please check postman or thunder for checking heroku')
+  
+})
 function start() {
   app.listen(PORT,()=>{
     console.log(`you are listining to this ${PORT}`);
