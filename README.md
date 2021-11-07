@@ -3,9 +3,10 @@
 
 ## Author: Mohammad Haroun
 just press on them 
-* [Deployment Link (Heroku for sign-in route) ](https://haroun-api-server.herokuapp.com/food)
+for sign in and sign up routs please check them using postman or thunder because get route is not from the requirements
+* [Deployment Link (Heroku for sign-in route) ](https://lab06-auth.herokuapp.com/signin)
 
-* [Deployment Link (Heroku for sign-up route) ](https://haroun-api-server.herokuapp.com/clothes)
+* [Deployment Link (Heroku for sign-up route) ](https://lab06-auth.herokuapp.com/signup)
 * [Test Report Link ](https://github.com/Mohammad-Haroun-97/api-server/actions)
 * [Pull request Link ](https://github.com/Mohammad-Haroun-97/api-server/pull/2)
 # Setup
