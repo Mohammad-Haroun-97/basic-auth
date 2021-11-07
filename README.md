@@ -7,8 +7,8 @@ for sign in and sign up routs please check them using postman or thunder because
 * [Deployment Link (Heroku for sign-in route) ](https://lab06-auth.herokuapp.com/signin)
 
 * [Deployment Link (Heroku for sign-up route) ](https://lab06-auth.herokuapp.com/signup)
-* [Test Report Link ](https://github.com/Mohammad-Haroun-97/api-server/actions)
-* [Pull request Link ](https://github.com/Mohammad-Haroun-97/api-server/pull/2)
+* [Test Report Link ](https://github.com/Mohammad-Haroun-97/basic-auth/actions)
+* [Pull request Link ](https://github.com/Mohammad-Haroun-97/basic-auth/pull/4)
 # Setup
 * .env requirements
 * PORT - Port Number
